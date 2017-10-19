@@ -14,3 +14,12 @@ siempre alerta más
 - rmdir = Remove directory
 - rm -rf = (**r**ecursivo **f**orce)
 - cat = concatenar terminal
+
+- git:
+-		clone = Copiar
+-		commit = Subir a temporal
+-		status = Archivos por subir
+-		add = Ver los nuevos ficheros
+-		add -u = Eliminar datos borrados
+-		pull = Cambios en los archivos
+-		push = Publicar archivos
