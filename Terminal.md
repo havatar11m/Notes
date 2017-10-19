@@ -38,3 +38,4 @@ split = Divide horizontal
 ~ = Mi directorio Home
 . = Directorio actual
 .. = Directorio de arriba
+-- = A veces el fichero 
