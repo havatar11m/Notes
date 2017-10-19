@@ -32,3 +32,9 @@ head
 cut = Corta vertical
 
 split = Divide horizontal
+
+## Meta caracteres
+
+~ = Mi directorio Home
+. = Directorio actual
+.. = Directorio de arriba
