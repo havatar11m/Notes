@@ -13,13 +13,19 @@ Cat <[YYYY]> XXXX.me = crea un fichero nuevo que al ejecutarlo con Cat XXXX.me y
 
 seq X Y = Te da una secuencia desde X hasta Y
 
+
+
 ## Comandos que Unen
 
 Cat = concatenar archivos en terminal
+		unir partes/divisiones
 
 paste = Unir en vertical
 
 join = Combinaciones
+
+
+
 
 ## Comandos que dividen
 
@@ -32,6 +38,9 @@ head
 cut = Corta vertical
 
 split = Divide horizontal
+
+
+
 
 ## Meta caracteres
 

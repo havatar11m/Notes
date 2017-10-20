@@ -14,6 +14,7 @@ siempre alerta más
 - rmdir = Remove directory
 - rm -rf = (**r**ecursivo **f**orce)
 - cat = concatenar terminal
+- mv = mover el nombre, cambiarlo
 
 - git:
 -		clone = Copiar
@@ -23,3 +24,21 @@ siempre alerta más
 -		add -u = Eliminar datos borrados
 -		pull = Cambios en los archivos
 -		push = Publicar archivos
+
+
+Man or info (Busqueda de sistema) man # time
+- 1 Herramientas terminal
+- 2 Núcleo de sistema
+- 3 Desarrollo de aplicaciones
+
+
+## Otras
+
+- wget = descargas cosas de internet
+- | tr = cambia las letras por otras "Ai" "a!"
+- 	-S = squeeze (lo mismo que tr pero con un solo campo)
+- sort = ordenar
+-	-n = por numero
+- uniq = deja filas unicas
+- 	-c = cuenta
+- telnet = mandar algo a otro ordenador (pag de intrnt)
