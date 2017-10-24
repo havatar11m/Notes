@@ -42,3 +42,15 @@ Man or info (Busqueda de sistema) man # time
 - uniq = deja filas unicas
 - 	-c = cuenta
 - telnet = mandar algo a otro ordenador (pag de intrnt)
+- xargs = transforma un resultado de un comando en el resultado de otro
+- wich = busca un ejecutable
+- cal = Calendario
+- bc = calculadora básica
+
+
+
+## Para buscar
+
+- grep = para buscar / filtrar
+- find = busca ficheros
+						find . -name barbarians.txt 2> /dev/null

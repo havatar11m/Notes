@@ -44,7 +44,32 @@ split = Divide horizontal
 
 ## Meta caracteres
 
+$ = Dice el valor de una variable
 ~ = Mi directorio Home
 . = Directorio actual
 .. = Directorio de arriba
 -- = A veces el fichero 
+' ' = Separa palabras
+\\ = Secuencia de escape -> Kriptonita de
+	los metacaracteres
+"" = quitan el poder a casi todos los metacaracteres
+	menos al $
+
+## Variable
+ 
+ # = Cantidad de parámetros
+
+## Otros
+
+#! shebang: Intérprete con el que hay que ejecutar el archivo
+!! = El ultimo comando
+!* = Los últimos parámetros
+
+## Operadores Lógicos
+
+&& = AND
+|| = or
+! = NOT
+
+
+echo "obase=16; 1389" | bc
