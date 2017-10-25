@@ -47,6 +47,15 @@ Man or info (Busqueda de sistema) man # time
 - cal = Calendario
 - bc = calculadora básica
 - touch = Crea un 
+- mysqldump = volcado de la base de datos
+- date = muestra la fecha (backups rotativos)
+- history = Muestra el historial
+- fg = trae un proceso a primer plano
+- jobs = lista los procesos en 2º plano
+- ps aux = vemos los procesos
+- kill <pid> = Matamos el proceso
+- kill -9 <pid> = Matar por la fuerza
+
 
 
 ## Para buscar

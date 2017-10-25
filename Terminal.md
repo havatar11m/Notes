@@ -63,6 +63,7 @@ $ = Dice el valor de una variable
 ? = Cualquier caracter
 [] = conjunto de selección
 {} = combinaciones de secuencias
+\` = ejecutar un comando y sustituir por el resultado
 
 ## Variable
  
