@@ -46,7 +46,7 @@ Man or info (Busqueda de sistema) man # time
 - wich = busca un ejecutable
 - cal = Calendario
 - bc = calculadora básica
-
+- touch = Crea un 
 
 
 ## Para buscar
@@ -54,3 +54,5 @@ Man or info (Busqueda de sistema) man # time
 - grep = para buscar / filtrar
 - find = busca ficheros
 						find . -name barbarians.txt 2> /dev/null
+- ed = editor sin ventanas
+- sed = lo mismo

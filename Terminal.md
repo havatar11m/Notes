@@ -13,6 +13,11 @@ Cat <[YYYY]> XXXX.me = crea un fichero nuevo que al ejecutarlo con Cat XXXX.me y
 
 seq X Y = Te da una secuencia desde X hasta Y
 
+2> = Redirigir stderr
+
+| = Pipe, tuberia (usa fichero anónimo)
+
+Redirección de copia
 
 
 ## Comandos que Unen
@@ -54,6 +59,10 @@ $ = Dice el valor de una variable
 	los metacaracteres
 "" = quitan el poder a casi todos los metacaracteres
 	menos al $
+\* = Cualquier secuencia de caracter
+? = Cualquier caracter
+[] = conjunto de selección
+{} = combinaciones de secuencias
 
 ## Variable
  
@@ -64,6 +73,9 @@ $ = Dice el valor de una variable
 #! shebang: Intérprete con el que hay que ejecutar el archivo
 !! = El ultimo comando
 !* = Los últimos parámetros
+touch = crea un directorio si no lo hay y si lo hay lo modifica
+	la fecha de creación a ese instante
+
 
 ## Operadores Lógicos
 
